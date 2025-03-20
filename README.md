@@ -2,5 +2,6 @@
 
 ### Instale a biblioteca FPDF
 
-```pip install fpdf
+```python
+pip install fpdf
 
